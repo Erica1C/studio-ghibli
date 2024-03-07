@@ -22,4 +22,6 @@ width: 12%;
 }
 .lista-item{
     display: inline-block;
+    font-size: 20px ;
+    margin: 0 16px;
 }
